@@ -238,5 +238,4 @@ mod tests {
         assert!(a.is_normalized());
         assert!(!b.is_normalized());
     }
-
 }
